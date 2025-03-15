@@ -1,4 +1,4 @@
-<img width="300px" align="right" src="https://kevin-411.github.io/portfolio/img/kevin.jpg"/>
+<img width="300px" align="right" src="https://kevin-411.github.io/portfolio/img/kevin.99e64b66.jpg"/>
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=kevin-411&color=FAC151)][1]
 [![PHP](https://img.shields.io/badge/PHP-Devaloper-FAC151.svg?logo=php&logoWidth=20)](https://github.com/ahmedalmory)
@@ -20,7 +20,7 @@ You can see what I am currently up to on [https://kevin-411.github.io/portfolio]
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/kevin-411/kevin-411">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-411&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-411&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/kevin-411/kevin-411">
