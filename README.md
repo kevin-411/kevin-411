@@ -31,7 +31,7 @@ You can see what I am currently up to on [https://kevin-411.github.io/portfolio]
 - 🇺🇸 English: Pretty Good
 
 [1]: https://kevin-411.github.io/portfolio
-[2]: https://www.linkedin.com/in/kevin-411
+[2]: www.linkedin.com/in/kevin-obuya-685450161
 [3]: https://twitter.com/intent/follow?screen_name=odhiamboobuya
 <!--[4]: https://www.youtube.com/channel/
 
