@@ -15,7 +15,6 @@ You can see what I am currently up to on [https://kevin-411.github.io/portfolio]
 - Web: [https://kevin-411.github.io/portfolio][1]
 - LinkedIn: [linkedin.com/in/kevin-obuya][2]
 - Twitter: [twitter.com/odhiamboobuya][3]
-- Hackerone: [hackerone.com/klot][4]
 
 ## &#x1f4c8; My GitHub Stats
 
