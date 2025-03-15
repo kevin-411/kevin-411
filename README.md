@@ -13,7 +13,7 @@ You can see what I am currently up to on [https://kevin-411.github.io/portfolio]
 ## 📬 Get in touch
 
 - Web: [https://kevin-411.github.io/portfolio][1]
-- LinkedIn: [linkedin.com/in/kevin-obuya][2]
+- LinkedIn: [www.linkedin.com/in/kevin-obuya-685450161][2]
 - Twitter: [twitter.com/odhiamboobuya][3]
 
 ## &#x1f4c8; My GitHub Stats
